@@ -1,0 +1,19 @@
+# Large raw API dumps (regenerate from *_pull.py scripts)
+*_raw.json
+*_raw2.json
+*series_cache*.json
+*quote_seq.json
+*30min_raw.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
